@@ -5,16 +5,18 @@ real answers here - the `TODO`s must be gone before the check turns green.
 
 ## Name
 
-TODO - your full name
-
+Brycen Millette
 ## What I learned
 
-TODO - two or three sentences on something that clicked this lab
+I learned about the issues tab and a few new git commands eg: git switch as an alternative to git branch and git checkout branch.
 
 ## A Git command I will remember
 
-TODO - name one command and say, in a sentence, when you'd reach for it
+I will now remember git switch to be used as a shortcut to quickly create and checkout a brand new branch when working on a repo. 
 
 ## Evidence (links)
 
-- Merged pull request: TODO (paste the PR URL)
+- Merged pull request:  (paste the PR URL)
+
+https://github.com/brycenmillette/csci3230u-lab-01--brycenmillette-/pull/2
+
